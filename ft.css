@@ -1,0 +1,9 @@
+.o-overlay--counter-ad-block {
+  visibility: hidden !important;
+}
+.counter-adblock__prevent-scroll {
+  overflow: visible !important;
+}
+.o-overlay-shadow {
+  visibility: hidden !important;
+}
