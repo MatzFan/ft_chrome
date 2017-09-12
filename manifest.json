@@ -3,7 +3,7 @@
 
   "name": "FT, ad free",
   "description": "Disables adblock countermeasures on ft.com.",
-  "version": "0.1",
+  "version": "0.1.1",
   "browser_action": {
     "default_icon": "icon128.png",
     "default_title": "FT, ad free"
